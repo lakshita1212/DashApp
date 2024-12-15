@@ -36,6 +36,7 @@ app.layout = html.Div([
     ),
     html.Div(id='output-data-upload'),
     
+    html.H3("Group 13: Lakshita Madhavan, Neelaza Dahal, Jane Kalla, and Michelle Perez", style={'textAlign': 'center', 'marginTop': '20px'})
 
 
     html.Div([
