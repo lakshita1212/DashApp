@@ -5,3 +5,4 @@ numpy>=1.24.0
 plotly>=5.9.0
 scikit-learn>=1.2.1
 dash-bootstrap-components==1.0.0
+streamlit==1.21.0
